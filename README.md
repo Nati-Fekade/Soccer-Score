@@ -1,4 +1,4 @@
-# Homework 03 - Extended Mode 3 Game
+# Mode 3 Game on GBA
 ---
 
 ## Soccer Score
